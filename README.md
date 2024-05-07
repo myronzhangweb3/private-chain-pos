@@ -1,6 +1,6 @@
 # private-chain-pos
 
-> Data loss after container restart
+> ⚠️ **Data loss after container restart**
 
 ## Usage
 
